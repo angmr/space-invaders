@@ -1,5 +1,7 @@
 # space-invaders
-simple python (2.7.14)  space invaders game using turtle graphics
+simple python space invaders game using turtle graphics
+
+This is a python 3.9.1 Windows version
 
 Thanks to Tutorial by Christian Thompson 
 http://christianthompson.com/
